@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ea-test/static/css/main.e4217caa.css",
+    "main.js": "/ea-test/static/js/main.a1c61179.js",
+    "index.html": "/ea-test/index.html",
+    "main.e4217caa.css.map": "/ea-test/static/css/main.e4217caa.css.map",
+    "main.a1c61179.js.map": "/ea-test/static/js/main.a1c61179.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4217caa.css",
+    "static/js/main.a1c61179.js"
+  ]
+}
